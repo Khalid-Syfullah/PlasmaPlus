@@ -1,22 +1,6 @@
 # Plasma+
 Plasma+ - A Smart Blood and Plasma Banking app for Android. It is designed for Bangladeshi Users. This project is designed as a mobile application to create a communication platform between donors and patients throughout the country.
- <!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Thanks again! Now go create something AMAZING! :D
--->
 
-
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -30,22 +14,22 @@ Plasma+ - A Smart Blood and Plasma Banking app for Android. It is designed for B
 <br />
 <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="app/src/main/res/mipmap-hdpi/app_icon.png" alt="Logo" width="256" height="256">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Plasma+</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    A Smart Blood and Plasma Banking app for Android.
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://play.google.com/store/apps/details?id=com.ece.cov19"><strong>Download App for Android</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://www.youtube.com/watch?v=5m7xHHdIbIc">Video Tutorial</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://docs.google.com/forms/d/e/1FAIpQLSd_PgXtE8sYdaxCIp4pPXM6IqU7ZvoA963iBksFejGIOUYH6g/viewform?usp=sf_link">Send Review</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://www.facebook.com/medspirebd">Facebook Page</a>
   </p>
 </p>
 
