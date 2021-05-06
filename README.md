@@ -70,15 +70,16 @@ Plasma+ - A Smart Blood and Plasma Banking app for Android. It is designed for B
 <p align="center">
   <img src="screenshots/Featured.png" alt="Logo" width="640" height="360">
   <br>
+  <br>
+  <br>
+  <br>
   <img src="app/src/main/res/drawable/splash.png" alt="Logo" width="180" height="360">
-  <img src="screenshots/IMG_20200715_232320.jpg" alt="Logo" width="180" height="360">
+  <img src="screenshots/IMG_20200715_232505.jpg" alt="Logo" width="180" height="360">
   <img src="screenshots/IMG_20200804_140228.jpg" alt="Logo" width="180" height="360">
   <img src="screenshots/IMG_20200715_232441.jpg" alt="Logo" width="180" height="360">
-   <img src="screenshots/IMG_20200804_140027.jpg" alt="Logo" width="180" height="360">
   <br>
   <br>
-  <img src="screenshots/IMG_20200715_232452.jpg" alt="Logo" width="180" height="360">
-  <img src="screenshots/IMG_20200715_232505.jpg" alt="Logo" width="180" height="360">
+  <img src="screenshots/IMG_20200804_140132.jpg" alt="Logo" width="180" height="360">
   <img src="screenshots/IMG_20200715_232530.jpg" alt="Logo" width="180" height="360">
   <img src="screenshots/IMG_20200804_140105.jpg" alt="Logo" width="180" height="360">
   <img src="screenshots/IMG_20200804_135928.jpg" alt="Logo" width="180" height="360">
@@ -86,9 +87,8 @@ Plasma+ - A Smart Blood and Plasma Banking app for Android. It is designed for B
   <br>
   <br>
   <img src="screenshots/IMG_20200804_140009.jpg" alt="Logo" width="180" height="360">
-  <img src="screenshots/IMG_20200804_140132.jpg" alt="Logo" width="180" height="360">
   <img src="screenshots/IMG_20200804_140157.jpg" alt="Logo" width="180" height="360">
-   <img src="screenshots/IMG_20200804_140121.jpg" alt="Logo" width="180" height="360">
+  <img src="screenshots/IMG_20200804_140121.jpg" alt="Logo" width="180" height="360">
   <img src="screenshots/IMG_20200804_140209.jpg" alt="Logo" width="180" height="360">
  
   <br>
