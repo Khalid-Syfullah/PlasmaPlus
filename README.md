@@ -8,7 +8,6 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
@@ -64,6 +63,7 @@
 (https://facebook.com/medspirebd)
 
 Plasma+ - A Smart Blood and Plasma Banking app for Android. It is designed for Bangladeshi Users. This project is designed as a mobile application to create a communication platform between donors and patients throughout the country.
+[![Product Name Screen Shot][product-screenshot]](https://play.google.com/store/apps/details?id=com.ece.cov19)
 
 ### Built With
 
@@ -150,3 +150,17 @@ Project Link: [https://github.com/khalid-syfullah/plasmaplus](https://github.com
 * [Choose an Open Source License](https://choosealicense.com)
 * [GitHub Pages](https://pages.github.com)
 * [Font Awesome](https://fontawesome.com)
+
+[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
+[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
+[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
+[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
+[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
+[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
+[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
+[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
+[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://bd.linkedin.com/in/khalid-syfullah
+[product-screenshot]: images/screenshot.png
