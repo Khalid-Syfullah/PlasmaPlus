@@ -157,15 +157,15 @@ Project Link: [https://github.com/khalid-syfullah/plasmaplus](https://github.com
 * [GitHub Pages](https://pages.github.com)
 * [Font Awesome](https://fontawesome.com)
 
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/static/v1?label=Contributors&message=2&color=red
 [contributors-url]: https://github.com/khalid-syfullah/plasmaplus/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/static/v1?label=Forks&message=1&color=green
 [forks-url]: https://github.com/khalid-syfullah/plasmaplus/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/static/v1?label=Stars&message=1&color=blue
 [stars-url]: https://github.com/khalid-syfullah/plasmaplus/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/static/v1?label=Issues&message=1&color=yellow
 [issues-url]: https://github.com/khalid-syfullah/plasmaplus/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/static/v1?label=Licenses&message=1&color=purple
 [license-url]: https://github.com/khalid-syfullah/plasmaplus/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://bd.linkedin.com/in/khalid-syfullah
