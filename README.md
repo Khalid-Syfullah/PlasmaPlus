@@ -163,4 +163,4 @@ Project Link: [https://github.com/khalid-syfullah/plasmaplus](https://github.com
 [license-url]: https://github.com/khalid-syfullah/plasmaplus/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://bd.linkedin.com/in/khalid-syfullah
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: https://github.com/Khalid-Syfullah/PlasmaPlus/blob/master/app/src/main/res/drawable/splash.png
