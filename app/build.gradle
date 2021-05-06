@@ -1,20 +1,7 @@
 apply plugin: 'com.android.application'
 apply plugin: 'com.google.gms.google-services'
 android {
-    signingConfigs {
-        debug {
-            keyPassword '15111997'
-            storePassword '15111997'
-            keyAlias 'key0'
-            storeFile file('F:\\OneDrive\\Documents\\AndroidStudioProjects\\keystore')
-        }
-        release {
-            storeFile file('F:\\OneDrive\\Documents\\AndroidStudioProjects\\keystore')
-            storePassword '15111997'
-            keyAlias 'key0'
-            keyPassword '15111997'
-        }
-    }
+
     compileSdkVersion 30
     buildToolsVersion "30.0.0"
     compileOptions {
@@ -48,7 +35,6 @@ android {
         release {
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
-            signingConfig signingConfigs.release
         }
     }
 
