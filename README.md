@@ -63,7 +63,13 @@
 (https://facebook.com/medspirebd)
 
 Plasma+ - A Smart Blood and Plasma Banking app for Android. It is designed for Bangladeshi Users. This project is designed as a mobile application to create a communication platform between donors and patients throughout the country.
-[![Product Name Screen Shot][product-screenshot]](https://play.google.com/store/apps/details?id=com.ece.cov19)
+
+<br />
+<p align="center">
+  <a href="https://github.com/khalid-syfullah/plasmaplus">
+    <img src="app/src/main/res/drawable/splash.png" alt="Logo" width="360" height="640">
+  </a>
+</p>
 
 ### Built With
 
