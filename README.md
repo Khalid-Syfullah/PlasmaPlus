@@ -41,6 +41,7 @@
       <a href="#about-the-project">About The Project</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
+        <li><a href="#features">Features</a></li>
       </ul>
     </li>
     <li>
@@ -79,6 +80,16 @@ Plasma+ - A Smart Blood and Plasma Banking app for Android. It is designed for B
 * [Android Image Cropper](https://github.com/ArthurHub/Android-Image-Cropper/)
 
 
+### Features
+- [x] Dedicated platform for hassle-free Blood & Plasma banking
+- [x] Integrated database – the biggest library of donors
+- [x] Maintains data privacy
+- [x] Fast, easy-to-use and hassle-free
+- [x] Quick user registration & profile creation
+- [x] Multiple user roles
+- [x] Phone verification
+- [x] Eligibility checking
+- [ ] ML-based Covid-19 Detection
 
 
 
@@ -113,7 +124,7 @@ Plasma+ - A Smart Blood and Plasma Banking app for Android. It is designed for B
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+_For more examples, please refer to the [Documentation](https://www.youtube.com/watch?v=5m7xHHdIbIc)_
 
 
 
@@ -155,7 +166,6 @@ Project Link: [https://github.com/khalid-syfullah/plasmaplus](https://github.com
 ## Acknowledgements
 * [Choose an Open Source License](https://choosealicense.com)
 * [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
 
 [contributors-shield]: https://img.shields.io/static/v1?label=Contributors&message=2&color=red
 [contributors-url]: https://github.com/khalid-syfullah/plasmaplus/graphs/contributors
