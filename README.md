@@ -163,10 +163,10 @@ Project Link: [https://github.com/khalid-syfullah/plasmaplus](https://github.com
 [forks-url]: https://github.com/khalid-syfullah/plasmaplus/network/members
 [stars-shield]: https://img.shields.io/static/v1?label=Stars&message=1&color=blue
 [stars-url]: https://github.com/khalid-syfullah/plasmaplus/stargazers
-[issues-shield]: https://img.shields.io/static/v1?label=Issues&message=1&color=yellow
+[issues-shield]: https://img.shields.io/static/v1?label=Issues&message=0&color=yellow
 [issues-url]: https://github.com/khalid-syfullah/plasmaplus/issues
-[license-shield]: https://img.shields.io/static/v1?label=Licenses&message=1&color=purple
+[license-shield]: https://img.shields.io/static/v1?label=Licenses&message=0&color=purple
 [license-url]: https://github.com/khalid-syfullah/plasmaplus/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-shield]: https://img.shields.io/static/v1?label=LinkedIn&message=Khalid-Syfullah&logo=linkedin
 [linkedin-url]: https://bd.linkedin.com/in/khalid-syfullah
 [product-screenshot]: https://github.com/Khalid-Syfullah/PlasmaPlus/blob/master/app/src/main/res/drawable/splash.png
