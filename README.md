@@ -21,14 +21,14 @@
   <p align="center">
     A Smart Blood and Plasma Banking app for Android.
     <br />
-    <a href="https://play.google.com/store/apps/details?id=com.ece.cov19"><strong>Download App for Android</strong></a>
+    <!-- <a href="https://play.google.com/store/apps/details?id=com.ece.cov19"><strong>Download App for Android</strong></a> -->
     <br />
     <br />
     <a href="https://www.youtube.com/watch?v=5m7xHHdIbIc">Video Tutorial</a>
     ·
     <a href="https://docs.google.com/forms/d/e/1FAIpQLSd_PgXtE8sYdaxCIp4pPXM6IqU7ZvoA963iBksFejGIOUYH6g/viewform?usp=sf_link">Send Review</a>
     ·
-    <a href="https://www.facebook.com/medspirebd">Facebook Page</a>
+    <!-- <a href="https://www.facebook.com/medspirebd">Facebook Page</a> -->
   </p>
 </p>
 
@@ -62,7 +62,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-(https://facebook.com/medspirebd)
+(https://www.youtube.com/watch?v=5m7xHHdIbIc)
 
 Plasma+ - A Smart Blood and Plasma Banking app for Android. It is designed for Bangladeshi Users. This project is designed as a mobile application to create a communication platform between donors and patients throughout the country.
 
@@ -73,12 +73,11 @@ Plasma+ - A Smart Blood and Plasma Banking app for Android. It is designed for B
   <br>
   <br>
   <br>
-  <img src="screenshots/Medspire Banner A4.png" alt="Logo" width="640" height="850">
+   <img src="screenshots/Plasma+.png" alt="Banner" width="640" height="850">
   <br>
   <br>
   <br>
   <br>
-
   <img src="app/src/main/res/drawable/splash.png" alt="Logo" width="180" height="360">
   <img src="screenshots/IMG_20200715_232505.jpg" alt="Logo" width="180" height="360">
   <img src="screenshots/IMG_20200804_140228.jpg" alt="Logo" width="180" height="360">
@@ -97,11 +96,7 @@ Plasma+ - A Smart Blood and Plasma Banking app for Android. It is designed for B
   <img src="screenshots/IMG_20200804_140121.jpg" alt="Logo" width="180" height="360">
   <img src="screenshots/IMG_20200804_140209.jpg" alt="Logo" width="180" height="360">
 
-   <img src="screenshots/Plasma+.png" alt="Logo" width="640" height="850">
-  <br>
-  <br>
-  <br>
-  <br>
+
   <img src="screenshots/E-Doctors.png" alt="Logo" width="640" height="850">
   <br>
   <br>
@@ -110,7 +105,10 @@ Plasma+ - A Smart Blood and Plasma Banking app for Android. It is designed for B
   <img src="screenshots/E-Medicine.png" alt="Logo" width="640" height="850">
   <br>
   <br>
-
+  <br>
+  <br>
+  <img src="screenshots/Medspire Banner A4.png" alt="Logo" width="640" height="850">
+  <br>
   <br>
   <br>
   <br>
@@ -135,7 +133,7 @@ Plasma+ - A Smart Blood and Plasma Banking app for Android. It is designed for B
 - [x] Multiple user roles
 - [x] Phone verification
 - [x] Eligibility checking
-- [ ] ML-based Covid-19 Detection
+- [x] ML-based Covid-19 Detection
 
 
 
@@ -202,7 +200,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@khalid_syfullah](https://twitter.com/khalid_syfullah) - khalidsyfullah@gmail.com
+Khalid Syfullah - [@khalid_syfullah](https://twitter.com/khalid_syfullah) - khalidsyfullah@gmail.com
 
 Project Link: [https://github.com/khalid-syfullah/plasmaplus](https://github.com/khalid-syfullah/plasmaplus)
 
@@ -225,4 +223,4 @@ Project Link: [https://github.com/khalid-syfullah/plasmaplus](https://github.com
 [license-url]: https://github.com/khalid-syfullah/plasmaplus/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/static/v1?label=LinkedIn&message=Khalid-Syfullah&logo=linkedin
 [linkedin-url]: https://bd.linkedin.com/in/khalid-syfullah
-[product-screenshot]: https://github.com/Khalid-Syfullah/PlasmaPlus/blob/master/app/src/main/res/drawable/splash.png
+[product-screenshot]: https://github.com/Khalid-Syfullah/PlasmaPlus/app/src/main/res/mipmap-hdpi/app_icon.png
