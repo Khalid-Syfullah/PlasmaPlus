@@ -73,6 +73,12 @@ Plasma+ - A Smart Blood and Plasma Banking app for Android. It is designed for B
   <br>
   <br>
   <br>
+  <img src="screenshots/Medspire Banner A4.png" alt="Logo" width="640" height="850">
+  <br>
+  <br>
+  <br>
+  <br>
+
   <img src="app/src/main/res/drawable/splash.png" alt="Logo" width="180" height="360">
   <img src="screenshots/IMG_20200715_232505.jpg" alt="Logo" width="180" height="360">
   <img src="screenshots/IMG_20200804_140228.jpg" alt="Logo" width="180" height="360">
@@ -90,7 +96,21 @@ Plasma+ - A Smart Blood and Plasma Banking app for Android. It is designed for B
   <img src="screenshots/IMG_20200804_140157.jpg" alt="Logo" width="180" height="360">
   <img src="screenshots/IMG_20200804_140121.jpg" alt="Logo" width="180" height="360">
   <img src="screenshots/IMG_20200804_140209.jpg" alt="Logo" width="180" height="360">
- 
+
+   <img src="screenshots/Plasma+.png" alt="Logo" width="640" height="850">
+  <br>
+  <br>
+  <br>
+  <br>
+  <img src="screenshots/E-Doctors.png" alt="Logo" width="640" height="850">
+  <br>
+  <br>
+  <br>
+  <br>
+  <img src="screenshots/E-Medicine.png" alt="Logo" width="640" height="850">
+  <br>
+  <br>
+
   <br>
   <br>
   <br>
