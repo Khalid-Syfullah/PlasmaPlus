@@ -27,7 +27,7 @@
     <a href="https://www.youtube.com/watch?v=5m7xHHdIbIc">Video Tutorial</a>
     ·
     <a href="https://docs.google.com/forms/d/e/1FAIpQLSd_PgXtE8sYdaxCIp4pPXM6IqU7ZvoA963iBksFejGIOUYH6g/viewform?usp=sf_link">Send Review</a>
-    ·
+    <!-- · -->
     <!-- <a href="https://www.facebook.com/medspirebd">Facebook Page</a> -->
   </p>
 </p>
